@@ -1,0 +1,20 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #3e3c5a;
+  color: white;
+}
+
+.body {
+  background: linear-gradient(309deg, #1d114a, transparent);
+}
+
+.footer {
+  background-color: #3e3c5a;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
